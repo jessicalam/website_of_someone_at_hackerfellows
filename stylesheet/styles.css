@@ -3,6 +3,7 @@ body {
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 50px !important;
+    font-weight: bold;
 }
 
 h1 {
@@ -88,4 +89,9 @@ a {
 }
 .em-green_heart {
     font-size: 20px !important;
+}
+
+.about-vlad-image-sizing {
+    height: 100%;
+    width: auto;
 }
