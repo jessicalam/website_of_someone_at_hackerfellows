@@ -82,6 +82,7 @@ h1 {
 }
 a {
     text-decoration: none;
+    cursor:pointer;
 }
 .footer-text{
     padding-top: 35px;
@@ -97,3 +98,37 @@ a {
     height: 100%;
     width: auto;
 }
+
+
+
+
+.circle-gradient {
+    height: 200px;
+    width: 200px;
+    background: red;
+    border-radius: 50% !important;
+    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 25px;
+    font-family: Impact, Charcoal, sans-serif;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, red , yellow); /* Standard syntax (must be last) */
+    float:right;
+    z-index: 1;
+
+}
+.circle-text {
+    position: absolute;
+    top: 50px;
+    right: 25px;
+    float: left;
+    z-index: 2;
+}
+
+.overlap-right {
+    margin-bottom:-100px;
+    float: right;
+    display: inline-block;
+}
+
