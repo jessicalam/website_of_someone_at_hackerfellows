@@ -109,7 +109,13 @@ a {
 }
 
 
-
+.soundcloud-photo {
+    border: 10px white dotted;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 50%;
+}
 
 .circle-gradient {
     height: 200px;
