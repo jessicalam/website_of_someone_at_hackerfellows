@@ -19,7 +19,7 @@ h2, h3 {
 }
 
 iframe {
-    border: 10px dashed yellow;
+    border: 3px dashed yellow;
     margin: 30px;
 }
 .background-border {
@@ -91,11 +91,8 @@ iframe {
 }
 a {
     text-decoration: none;
-<<<<<<< HEAD
     cursor:pointer;
-=======
     font: italic bold 5rem Brush Script MT;
->>>>>>> 5c284b8a57148d1b09e5576e2a625a26a9f0e658
 }
 .footer-text{
     padding-top: 35px;
