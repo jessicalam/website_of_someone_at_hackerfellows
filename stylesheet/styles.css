@@ -10,6 +10,8 @@ h1 {
   color: #7FFF00 !important;
   font-weight: bold !important;
   font-size: 5rem !important;
+  background-color: orange;
+  box-shadow: 10px 20px;
 }
 .background-border {
     background-image: url("https://cdn12.picryl.com/photo/2016/12/31/crazy-pattern-texture-backgrounds-textures-2e710d-1024.jpg") !important;
