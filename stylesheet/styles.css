@@ -13,6 +13,11 @@ h1 {
   background-color: orange;
   box-shadow: 10px 20px;
 }
+
+iframe {
+    border: 10px dashed yellow;
+    margin: 30px;
+}
 .background-border {
     background-image: url("https://cdn12.picryl.com/photo/2016/12/31/crazy-pattern-texture-backgrounds-textures-2e710d-1024.jpg") !important;
     background-color: mediumblue;
