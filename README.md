@@ -14,3 +14,5 @@ https://jessicalam.github.io/website_of_someone_at_hackerfellows/
 - https://github.com/tholman/cursor-effects/blob/master/js/emojiCursor.js
 - https://github.com/tholman/cursor-effects/blob/master/js/ghostsCursor.js
 - https://github.com/tholman/cursor-effects/blob/master/js/batsCursor.js
+- https://soundcloud.com/vladthechamp
+- Vlad's Facebook and Instagram
